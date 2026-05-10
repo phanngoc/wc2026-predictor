@@ -1,0 +1,368 @@
+{
+  "generated_at": "2026-05-10T03:25:03.645031Z",
+  "total_teams": 45,
+  "api_key_used": false,
+  "cache_ttl_hours": 6,
+  "teams": [
+    {
+      "team": "USA",
+      "articles": 3,
+      "sentiment": "positive",
+      "avg_score": 0.333,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_usa.json"
+    },
+    {
+      "team": "Panama",
+      "articles": 3,
+      "sentiment": "neutral",
+      "avg_score": 0.0,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_panama.json"
+    },
+    {
+      "team": "Bolivia",
+      "articles": 3,
+      "sentiment": "neutral",
+      "avg_score": 0.0,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_bolivia.json"
+    },
+    {
+      "team": "Uruguay",
+      "articles": 3,
+      "sentiment": "neutral",
+      "avg_score": 0.0,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_uruguay.json"
+    },
+    {
+      "team": "Mexico",
+      "articles": 3,
+      "sentiment": "positive",
+      "avg_score": 0.333,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_mexico.json"
+    },
+    {
+      "team": "South Korea",
+      "articles": 3,
+      "sentiment": "neutral",
+      "avg_score": 0.0,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_south_korea.json"
+    },
+    {
+      "team": "Croatia",
+      "articles": 3,
+      "sentiment": "neutral",
+      "avg_score": 0.0,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_croatia.json"
+    },
+    {
+      "team": "Poland",
+      "articles": 3,
+      "sentiment": "neutral",
+      "avg_score": 0.0,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_poland.json"
+    },
+    {
+      "team": "Canada",
+      "articles": 3,
+      "sentiment": "positive",
+      "avg_score": 0.667,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_canada.json"
+    },
+    {
+      "team": "Morocco",
+      "articles": 3,
+      "sentiment": "positive",
+      "avg_score": 1.0,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_morocco.json"
+    },
+    {
+      "team": "Belgium",
+      "articles": 3,
+      "sentiment": "positive",
+      "avg_score": 1.0,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_belgium.json"
+    },
+    {
+      "team": "Ukraine",
+      "articles": 3,
+      "sentiment": "neutral",
+      "avg_score": 0.0,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_ukraine.json"
+    },
+    {
+      "team": "France",
+      "articles": 3,
+      "sentiment": "neutral",
+      "avg_score": 0.0,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_france.json"
+    },
+    {
+      "team": "Brazil",
+      "articles": 3,
+      "sentiment": "positive",
+      "avg_score": 0.333,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_brazil.json"
+    },
+    {
+      "team": "Japan",
+      "articles": 3,
+      "sentiment": "neutral",
+      "avg_score": 0.0,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_japan.json"
+    },
+    {
+      "team": "Saudi Arabia",
+      "articles": 3,
+      "sentiment": "neutral",
+      "avg_score": 0.0,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_saudi_arabia.json"
+    },
+    {
+      "team": "Spain",
+      "articles": 3,
+      "sentiment": "positive",
+      "avg_score": 0.333,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_spain.json"
+    },
+    {
+      "team": "Australia",
+      "articles": 3,
+      "sentiment": "positive",
+      "avg_score": 0.333,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_australia.json"
+    },
+    {
+      "team": "Portugal",
+      "articles": 3,
+      "sentiment": "positive",
+      "avg_score": 0.667,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_portugal.json"
+    },
+    {
+      "team": "Nigeria",
+      "articles": 3,
+      "sentiment": "neutral",
+      "avg_score": 0.0,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_nigeria.json"
+    },
+    {
+      "team": "Argentina",
+      "articles": 3,
+      "sentiment": "positive",
+      "avg_score": 0.667,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_argentina.json"
+    },
+    {
+      "team": "Chile",
+      "articles": 3,
+      "sentiment": "neutral",
+      "avg_score": 0.0,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_chile.json"
+    },
+    {
+      "team": "Ecuador",
+      "articles": 3,
+      "sentiment": "positive",
+      "avg_score": 0.333,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_ecuador.json"
+    },
+    {
+      "team": "Philippines",
+      "articles": 3,
+      "sentiment": "positive",
+      "avg_score": 0.333,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_philippines.json"
+    },
+    {
+      "team": "England",
+      "articles": 3,
+      "sentiment": "neutral",
+      "avg_score": 0.0,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_england.json"
+    },
+    {
+      "team": "Algeria",
+      "articles": 3,
+      "sentiment": "positive",
+      "avg_score": 0.333,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_algeria.json"
+    },
+    {
+      "team": "Senegal",
+      "articles": 3,
+      "sentiment": "positive",
+      "avg_score": 0.667,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_senegal.json"
+    },
+    {
+      "team": "New Zealand",
+      "articles": 3,
+      "sentiment": "positive",
+      "avg_score": 0.333,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_new_zealand.json"
+    },
+    {
+      "team": "Netherlands",
+      "articles": 3,
+      "sentiment": "positive",
+      "avg_score": 0.333,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_netherlands.json"
+    },
+    {
+      "team": "Colombia",
+      "articles": 3,
+      "sentiment": "positive",
+      "avg_score": 1.0,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_colombia.json"
+    },
+    {
+      "team": "Iran",
+      "articles": 3,
+      "sentiment": "positive",
+      "avg_score": 0.333,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_iran.json"
+    },
+    {
+      "team": "Jamaica",
+      "articles": 3,
+      "sentiment": "positive",
+      "avg_score": 1.0,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_jamaica.json"
+    },
+    {
+      "team": "Germany",
+      "articles": 3,
+      "sentiment": "positive",
+      "avg_score": 0.333,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_germany.json"
+    },
+    {
+      "team": "Cameroon",
+      "articles": 3,
+      "sentiment": "neutral",
+      "avg_score": 0.0,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_cameroon.json"
+    },
+    {
+      "team": "Switzerland",
+      "articles": 3,
+      "sentiment": "positive",
+      "avg_score": 1.0,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_switzerland.json"
+    },
+    {
+      "team": "Paraguay",
+      "articles": 3,
+      "sentiment": "positive",
+      "avg_score": 1.0,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_paraguay.json"
+    },
+    {
+      "team": "Italy",
+      "articles": 3,
+      "sentiment": "neutral",
+      "avg_score": 0.0,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_italy.json"
+    },
+    {
+      "team": "Hungary",
+      "articles": 3,
+      "sentiment": "positive",
+      "avg_score": 0.333,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_hungary.json"
+    },
+    {
+      "team": "Tunisia",
+      "articles": 3,
+      "sentiment": "neutral",
+      "avg_score": 0.0,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_tunisia.json"
+    },
+    {
+      "team": "South Africa",
+      "articles": 3,
+      "sentiment": "positive",
+      "avg_score": 0.333,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_south_africa.json"
+    },
+    {
+      "team": "Turkey",
+      "articles": 3,
+      "sentiment": "positive",
+      "avg_score": 1.0,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_turkey.json"
+    },
+    {
+      "team": "Ivory Coast",
+      "articles": 3,
+      "sentiment": "positive",
+      "avg_score": 0.333,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_ivory_coast.json"
+    },
+    {
+      "team": "Venezuela",
+      "articles": 3,
+      "sentiment": "neutral",
+      "avg_score": 0.0,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_venezuela.json"
+    },
+    {
+      "team": "Montenegro",
+      "articles": 3,
+      "sentiment": "positive",
+      "avg_score": 1.0,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_montenegro.json"
+    },
+    {
+      "team": "Qatar",
+      "articles": 3,
+      "sentiment": "neutral",
+      "avg_score": 0.0,
+      "source": "mock",
+      "cache_path": "data/raw/team_news_qatar.json"
+    }
+  ]
+}

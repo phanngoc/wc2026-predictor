@@ -1,0 +1,105 @@
+stage,group,matchday,match_id,date,home_team,away_team,venue,kickoff_utc,status,home_score,away_score,home_team_group,home_confederation,home_fifa_rank,away_team_group,away_confederation,away_fifa_rank
+Group Stage,A,1.0,GS-A-MD1-1,2026-06-11,USA,Panama,AT&T Stadium (Dallas),2026-06-11T19:00:00Z,scheduled,,,A,CONCACAF,13,A,CONCACAF,36
+Group Stage,A,1.0,GS-A-MD1-2,2026-06-12,Bolivia,Uruguay,SoFi Stadium (Los Angeles),2026-06-12T19:00:00Z,scheduled,,,A,CONMEBOL,39,A,CONMEBOL,12
+Group Stage,A,2.0,GS-A-MD2-3,2026-06-17,USA,Bolivia,Levi's Stadium (San Francisco),2026-06-17T19:00:00Z,scheduled,,,A,CONCACAF,13,A,CONMEBOL,39
+Group Stage,A,2.0,GS-A-MD2-4,2026-06-18,Panama,Uruguay,AT&T Stadium (Dallas),2026-06-18T19:00:00Z,scheduled,,,A,CONCACAF,36,A,CONMEBOL,12
+Group Stage,A,3.0,GS-A-MD3-5,2026-06-23,USA,Uruguay,SoFi Stadium (Los Angeles),2026-06-23T19:00:00Z,scheduled,,,A,CONCACAF,13,A,CONMEBOL,12
+Group Stage,A,3.0,GS-A-MD3-6,2026-06-24,Panama,Bolivia,Levi's Stadium (San Francisco),2026-06-24T19:00:00Z,scheduled,,,A,CONCACAF,36,A,CONMEBOL,39
+Group Stage,B,1.0,GS-B-MD1-1,2026-06-11,Mexico,South Korea,Estadio Azteca (Mexico City),2026-06-11T19:00:00Z,scheduled,,,L,CONCACAF,14,L,AFC,25
+Group Stage,B,1.0,GS-B-MD1-2,2026-06-12,Croatia,Poland,Estadio BBVA (Monterrey),2026-06-12T19:00:00Z,scheduled,,,B,UEFA,11,B,UEFA,27
+Group Stage,B,2.0,GS-B-MD2-3,2026-06-17,Mexico,Croatia,Estadio Akron (Guadalajara),2026-06-17T19:00:00Z,scheduled,,,L,CONCACAF,14,B,UEFA,11
+Group Stage,B,2.0,GS-B-MD2-4,2026-06-18,South Korea,Poland,Estadio Azteca (Mexico City),2026-06-18T19:00:00Z,scheduled,,,L,AFC,25,B,UEFA,27
+Group Stage,B,3.0,GS-B-MD3-5,2026-06-23,Mexico,Poland,Estadio BBVA (Monterrey),2026-06-23T19:00:00Z,scheduled,,,L,CONCACAF,14,B,UEFA,27
+Group Stage,B,3.0,GS-B-MD3-6,2026-06-24,South Korea,Croatia,Estadio Akron (Guadalajara),2026-06-24T19:00:00Z,scheduled,,,L,AFC,25,B,UEFA,11
+Group Stage,C,1.0,GS-C-MD1-1,2026-06-11,Canada,Morocco,BC Place (Vancouver),2026-06-11T19:00:00Z,scheduled,,,C,CONCACAF,26,C,CAF,16
+Group Stage,C,1.0,GS-C-MD1-2,2026-06-12,Belgium,Ukraine,BMO Field (Toronto),2026-06-12T19:00:00Z,scheduled,,,C,UEFA,10,C,UEFA,28
+Group Stage,C,2.0,GS-C-MD2-3,2026-06-17,Canada,Belgium,Stade de Saputo (Montreal),2026-06-17T19:00:00Z,scheduled,,,C,CONCACAF,26,C,UEFA,10
+Group Stage,C,2.0,GS-C-MD2-4,2026-06-18,Morocco,Ukraine,BC Place (Vancouver),2026-06-18T19:00:00Z,scheduled,,,C,CAF,16,C,UEFA,28
+Group Stage,C,3.0,GS-C-MD3-5,2026-06-23,Canada,Ukraine,BMO Field (Toronto),2026-06-23T19:00:00Z,scheduled,,,C,CONCACAF,26,C,UEFA,28
+Group Stage,C,3.0,GS-C-MD3-6,2026-06-24,Morocco,Belgium,Stade de Saputo (Montreal),2026-06-24T19:00:00Z,scheduled,,,C,CAF,16,C,UEFA,10
+Group Stage,D,1.0,GS-D-MD1-1,2026-06-11,France,Brazil,MetLife Stadium (New York/NJ),2026-06-11T19:00:00Z,scheduled,,,D,UEFA,2,D,CONMEBOL,5
+Group Stage,D,1.0,GS-D-MD1-2,2026-06-12,Japan,Saudi Arabia,Hard Rock Stadium (Miami),2026-06-12T19:00:00Z,scheduled,,,D,AFC,18,D,AFC,33
+Group Stage,D,2.0,GS-D-MD2-3,2026-06-17,France,Japan,Lincoln Financial Field (Philadelphia),2026-06-17T19:00:00Z,scheduled,,,D,UEFA,2,D,AFC,18
+Group Stage,D,2.0,GS-D-MD2-4,2026-06-18,Brazil,Saudi Arabia,MetLife Stadium (New York/NJ),2026-06-18T19:00:00Z,scheduled,,,D,CONMEBOL,5,D,AFC,33
+Group Stage,D,3.0,GS-D-MD3-5,2026-06-23,France,Saudi Arabia,Hard Rock Stadium (Miami),2026-06-23T19:00:00Z,scheduled,,,D,UEFA,2,D,AFC,33
+Group Stage,D,3.0,GS-D-MD3-6,2026-06-24,Brazil,Japan,Lincoln Financial Field (Philadelphia),2026-06-24T19:00:00Z,scheduled,,,D,CONMEBOL,5,D,AFC,18
+Group Stage,E,1.0,GS-E-MD1-1,2026-06-11,Spain,Australia,Rose Bowl (Los Angeles),2026-06-11T19:00:00Z,scheduled,,,E,UEFA,4,E,AFC,23
+Group Stage,E,1.0,GS-E-MD1-2,2026-06-12,Portugal,Nigeria,Levi's Stadium (San Francisco),2026-06-12T19:00:00Z,scheduled,,,L,UEFA,6,E,CAF,37
+Group Stage,E,2.0,GS-E-MD2-3,2026-06-17,Spain,Portugal,SoFi Stadium (Los Angeles),2026-06-17T19:00:00Z,scheduled,,,E,UEFA,4,L,UEFA,6
+Group Stage,E,2.0,GS-E-MD2-4,2026-06-18,Australia,Nigeria,Rose Bowl (Los Angeles),2026-06-18T19:00:00Z,scheduled,,,E,AFC,23,E,CAF,37
+Group Stage,E,3.0,GS-E-MD3-5,2026-06-23,Spain,Nigeria,Levi's Stadium (San Francisco),2026-06-23T19:00:00Z,scheduled,,,E,UEFA,4,E,CAF,37
+Group Stage,E,3.0,GS-E-MD3-6,2026-06-24,Australia,Portugal,SoFi Stadium (Los Angeles),2026-06-24T19:00:00Z,scheduled,,,E,AFC,23,L,UEFA,6
+Group Stage,F,1.0,GS-F-MD1-1,2026-06-11,Argentina,Chile,Mercedes-Benz Stadium (Atlanta),2026-06-11T19:00:00Z,scheduled,,,F,CONMEBOL,1,F,CONMEBOL,22
+Group Stage,F,1.0,GS-F-MD1-2,2026-06-12,Ecuador,Philippines,NRG Stadium (Houston),2026-06-12T19:00:00Z,scheduled,,,F,CONMEBOL,21,F,AFC,43
+Group Stage,F,2.0,GS-F-MD2-3,2026-06-17,Argentina,Ecuador,AT&T Stadium (Dallas),2026-06-17T19:00:00Z,scheduled,,,F,CONMEBOL,1,F,CONMEBOL,21
+Group Stage,F,2.0,GS-F-MD2-4,2026-06-18,Chile,Philippines,Mercedes-Benz Stadium (Atlanta),2026-06-18T19:00:00Z,scheduled,,,F,CONMEBOL,22,F,AFC,43
+Group Stage,F,3.0,GS-F-MD3-5,2026-06-23,Argentina,Philippines,NRG Stadium (Houston),2026-06-23T19:00:00Z,scheduled,,,F,CONMEBOL,1,F,AFC,43
+Group Stage,F,3.0,GS-F-MD3-6,2026-06-24,Chile,Ecuador,AT&T Stadium (Dallas),2026-06-24T19:00:00Z,scheduled,,,F,CONMEBOL,22,F,CONMEBOL,21
+Group Stage,G,1.0,GS-G-MD1-1,2026-06-11,England,Algeria,Gillette Stadium (Boston),2026-06-11T19:00:00Z,scheduled,,,G,UEFA,3,G,CAF,34
+Group Stage,G,1.0,GS-G-MD1-2,2026-06-12,Senegal,New Zealand,MetLife Stadium (New York/NJ),2026-06-12T19:00:00Z,scheduled,,,G,CAF,17,G,OFC,41
+Group Stage,G,2.0,GS-G-MD2-3,2026-06-17,England,Senegal,Arrowhead Stadium (Kansas City),2026-06-17T19:00:00Z,scheduled,,,G,UEFA,3,G,CAF,17
+Group Stage,G,2.0,GS-G-MD2-4,2026-06-18,Algeria,New Zealand,Gillette Stadium (Boston),2026-06-18T19:00:00Z,scheduled,,,G,CAF,34,G,OFC,41
+Group Stage,G,3.0,GS-G-MD3-5,2026-06-23,England,New Zealand,MetLife Stadium (New York/NJ),2026-06-23T19:00:00Z,scheduled,,,G,UEFA,3,G,OFC,41
+Group Stage,G,3.0,GS-G-MD3-6,2026-06-24,Algeria,Senegal,Arrowhead Stadium (Kansas City),2026-06-24T19:00:00Z,scheduled,,,G,CAF,34,G,CAF,17
+Group Stage,H,1.0,GS-H-MD1-1,2026-06-11,Netherlands,Colombia,Allegiant Stadium (Las Vegas),2026-06-11T19:00:00Z,scheduled,,,H,UEFA,7,H,CONMEBOL,15
+Group Stage,H,1.0,GS-H-MD1-2,2026-06-12,Iran,Jamaica,State Farm Stadium (Phoenix),2026-06-12T19:00:00Z,scheduled,,,H,AFC,24,H,CONCACAF,42
+Group Stage,H,2.0,GS-H-MD2-3,2026-06-17,Netherlands,Iran,Rose Bowl (Los Angeles),2026-06-17T19:00:00Z,scheduled,,,H,UEFA,7,H,AFC,24
+Group Stage,H,2.0,GS-H-MD2-4,2026-06-18,Colombia,Jamaica,Allegiant Stadium (Las Vegas),2026-06-18T19:00:00Z,scheduled,,,H,CONMEBOL,15,H,CONCACAF,42
+Group Stage,H,3.0,GS-H-MD3-5,2026-06-23,Netherlands,Jamaica,State Farm Stadium (Phoenix),2026-06-23T19:00:00Z,scheduled,,,H,UEFA,7,H,CONCACAF,42
+Group Stage,H,3.0,GS-H-MD3-6,2026-06-24,Colombia,Iran,Rose Bowl (Los Angeles),2026-06-24T19:00:00Z,scheduled,,,H,CONMEBOL,15,H,AFC,24
+Group Stage,I,1.0,GS-I-MD1-1,2026-06-11,Germany,Cameroon,Lumen Field (Seattle),2026-06-11T19:00:00Z,scheduled,,,I,UEFA,8,I,CAF,32
+Group Stage,I,1.0,GS-I-MD1-2,2026-06-12,Switzerland,Paraguay,BC Place (Vancouver),2026-06-12T19:00:00Z,scheduled,,,I,UEFA,19,I,CONMEBOL,35
+Group Stage,I,2.0,GS-I-MD2-3,2026-06-17,Germany,Switzerland,Empower Field (Denver),2026-06-17T19:00:00Z,scheduled,,,I,UEFA,8,I,UEFA,19
+Group Stage,I,2.0,GS-I-MD2-4,2026-06-18,Cameroon,Paraguay,Lumen Field (Seattle),2026-06-18T19:00:00Z,scheduled,,,I,CAF,32,I,CONMEBOL,35
+Group Stage,I,3.0,GS-I-MD3-5,2026-06-23,Germany,Paraguay,BC Place (Vancouver),2026-06-23T19:00:00Z,scheduled,,,I,UEFA,8,I,CONMEBOL,35
+Group Stage,I,3.0,GS-I-MD3-6,2026-06-24,Cameroon,Switzerland,Empower Field (Denver),2026-06-24T19:00:00Z,scheduled,,,I,CAF,32,I,UEFA,19
+Group Stage,J,1.0,GS-J-MD1-1,2026-06-11,Italy,Hungary,Hard Rock Stadium (Miami),2026-06-11T19:00:00Z,scheduled,,,J,UEFA,9,J,UEFA,29
+Group Stage,J,1.0,GS-J-MD1-2,2026-06-12,Tunisia,South Africa,Lincoln Financial Field (Philadelphia),2026-06-12T19:00:00Z,scheduled,,,J,CAF,30,J,CAF,38
+Group Stage,J,2.0,GS-J-MD2-3,2026-06-17,Italy,Tunisia,Gillette Stadium (Boston),2026-06-17T19:00:00Z,scheduled,,,J,UEFA,9,J,CAF,30
+Group Stage,J,2.0,GS-J-MD2-4,2026-06-18,Hungary,South Africa,Hard Rock Stadium (Miami),2026-06-18T19:00:00Z,scheduled,,,J,UEFA,29,J,CAF,38
+Group Stage,J,3.0,GS-J-MD3-5,2026-06-23,Italy,South Africa,Lincoln Financial Field (Philadelphia),2026-06-23T19:00:00Z,scheduled,,,J,UEFA,9,J,CAF,38
+Group Stage,J,3.0,GS-J-MD3-6,2026-06-24,Hungary,Tunisia,Gillette Stadium (Boston),2026-06-24T19:00:00Z,scheduled,,,J,UEFA,29,J,CAF,30
+Group Stage,K,1.0,GS-K-MD1-1,2026-06-11,Turkey,Ivory Coast,NRG Stadium (Houston),2026-06-11T19:00:00Z,scheduled,,,K,UEFA,20,K,CAF,31
+Group Stage,K,1.0,GS-K-MD1-2,2026-06-12,Venezuela,Montenegro,Mercedes-Benz Stadium (Atlanta),2026-06-12T19:00:00Z,scheduled,,,K,CONMEBOL,40,K,UEFA,44
+Group Stage,K,2.0,GS-K-MD2-3,2026-06-17,Turkey,Venezuela,Estadio Azteca (Mexico City),2026-06-17T19:00:00Z,scheduled,,,K,UEFA,20,K,CONMEBOL,40
+Group Stage,K,2.0,GS-K-MD2-4,2026-06-18,Ivory Coast,Montenegro,NRG Stadium (Houston),2026-06-18T19:00:00Z,scheduled,,,K,CAF,31,K,UEFA,44
+Group Stage,K,3.0,GS-K-MD3-5,2026-06-23,Turkey,Montenegro,Mercedes-Benz Stadium (Atlanta),2026-06-23T19:00:00Z,scheduled,,,K,UEFA,20,K,UEFA,44
+Group Stage,K,3.0,GS-K-MD3-6,2026-06-24,Ivory Coast,Venezuela,Estadio Azteca (Mexico City),2026-06-24T19:00:00Z,scheduled,,,K,CAF,31,K,CONMEBOL,40
+Group Stage,L,1.0,GS-L-MD1-1,2026-06-11,Portugal,Qatar,Estadio BBVA (Monterrey),2026-06-11T19:00:00Z,scheduled,,,L,UEFA,6,L,AFC,45
+Group Stage,L,1.0,GS-L-MD1-2,2026-06-12,South Korea,Mexico,Estadio Akron (Guadalajara),2026-06-12T19:00:00Z,scheduled,,,L,AFC,25,L,CONCACAF,14
+Group Stage,L,2.0,GS-L-MD2-3,2026-06-17,Portugal,South Korea,Estadio Azteca (Mexico City),2026-06-17T19:00:00Z,scheduled,,,L,UEFA,6,L,AFC,25
+Group Stage,L,2.0,GS-L-MD2-4,2026-06-18,Qatar,Mexico,Estadio BBVA (Monterrey),2026-06-18T19:00:00Z,scheduled,,,L,AFC,45,L,CONCACAF,14
+Group Stage,L,3.0,GS-L-MD3-5,2026-06-23,Portugal,Mexico,Estadio Akron (Guadalajara),2026-06-23T19:00:00Z,scheduled,,,L,UEFA,6,L,CONCACAF,14
+Group Stage,L,3.0,GS-L-MD3-6,2026-06-24,Qatar,South Korea,Estadio Azteca (Mexico City),2026-06-24T19:00:00Z,scheduled,,,L,AFC,45,L,AFC,25
+Round of 32,,,R32-01,2026-07-01,TBD,TBD,MetLife Stadium (New York/NJ),2026-07-01T19:00:00Z,scheduled,,,,,,,,
+Round of 32,,,R32-02,2026-07-01,TBD,TBD,AT&T Stadium (Dallas),2026-07-01T19:00:00Z,scheduled,,,,,,,,
+Round of 32,,,R32-03,2026-07-01,TBD,TBD,SoFi Stadium (Los Angeles),2026-07-01T19:00:00Z,scheduled,,,,,,,,
+Round of 32,,,R32-04,2026-07-01,TBD,TBD,Hard Rock Stadium (Miami),2026-07-01T19:00:00Z,scheduled,,,,,,,,
+Round of 32,,,R32-05,2026-07-02,TBD,TBD,Mercedes-Benz Stadium (Atlanta),2026-07-02T19:00:00Z,scheduled,,,,,,,,
+Round of 32,,,R32-06,2026-07-02,TBD,TBD,NRG Stadium (Houston),2026-07-02T19:00:00Z,scheduled,,,,,,,,
+Round of 32,,,R32-07,2026-07-02,TBD,TBD,Rose Bowl (Los Angeles),2026-07-02T19:00:00Z,scheduled,,,,,,,,
+Round of 32,,,R32-08,2026-07-02,TBD,TBD,Levi's Stadium (San Francisco),2026-07-02T19:00:00Z,scheduled,,,,,,,,
+Round of 32,,,R32-09,2026-07-03,TBD,TBD,Arrowhead Stadium (Kansas City),2026-07-03T19:00:00Z,scheduled,,,,,,,,
+Round of 32,,,R32-10,2026-07-03,TBD,TBD,Allegiant Stadium (Las Vegas),2026-07-03T19:00:00Z,scheduled,,,,,,,,
+Round of 32,,,R32-11,2026-07-03,TBD,TBD,Estadio Azteca (Mexico City),2026-07-03T19:00:00Z,scheduled,,,,,,,,
+Round of 32,,,R32-12,2026-07-03,TBD,TBD,BC Place (Vancouver),2026-07-03T19:00:00Z,scheduled,,,,,,,,
+Round of 32,,,R32-13,2026-07-04,TBD,TBD,Lumen Field (Seattle),2026-07-04T19:00:00Z,scheduled,,,,,,,,
+Round of 32,,,R32-14,2026-07-04,TBD,TBD,Gillette Stadium (Boston),2026-07-04T19:00:00Z,scheduled,,,,,,,,
+Round of 32,,,R32-15,2026-07-04,TBD,TBD,Lincoln Financial Field (Philadelphia),2026-07-04T19:00:00Z,scheduled,,,,,,,,
+Round of 32,,,R32-16,2026-07-04,TBD,TBD,Empower Field (Denver),2026-07-04T19:00:00Z,scheduled,,,,,,,,
+Round of 16,,,R16-01,2026-07-08,TBD,TBD,MetLife Stadium (New York/NJ),2026-07-08T19:00:00Z,scheduled,,,,,,,,
+Round of 16,,,R16-02,2026-07-08,TBD,TBD,AT&T Stadium (Dallas),2026-07-08T19:00:00Z,scheduled,,,,,,,,
+Round of 16,,,R16-03,2026-07-09,TBD,TBD,SoFi Stadium (Los Angeles),2026-07-09T19:00:00Z,scheduled,,,,,,,,
+Round of 16,,,R16-04,2026-07-09,TBD,TBD,Hard Rock Stadium (Miami),2026-07-09T19:00:00Z,scheduled,,,,,,,,
+Round of 16,,,R16-05,2026-07-10,TBD,TBD,Mercedes-Benz Stadium (Atlanta),2026-07-10T19:00:00Z,scheduled,,,,,,,,
+Round of 16,,,R16-06,2026-07-10,TBD,TBD,NRG Stadium (Houston),2026-07-10T19:00:00Z,scheduled,,,,,,,,
+Round of 16,,,R16-07,2026-07-11,TBD,TBD,Rose Bowl (Los Angeles),2026-07-11T19:00:00Z,scheduled,,,,,,,,
+Round of 16,,,R16-08,2026-07-11,TBD,TBD,Estadio Azteca (Mexico City),2026-07-11T19:00:00Z,scheduled,,,,,,,,
+Quarter-final,,,QF-01,2026-07-14,TBD,TBD,MetLife Stadium (New York/NJ),2026-07-14T19:00:00Z,scheduled,,,,,,,,
+Quarter-final,,,QF-02,2026-07-14,TBD,TBD,AT&T Stadium (Dallas),2026-07-14T19:00:00Z,scheduled,,,,,,,,
+Quarter-final,,,QF-03,2026-07-15,TBD,TBD,SoFi Stadium (Los Angeles),2026-07-15T19:00:00Z,scheduled,,,,,,,,
+Quarter-final,,,QF-04,2026-07-15,TBD,TBD,Hard Rock Stadium (Miami),2026-07-15T19:00:00Z,scheduled,,,,,,,,
+Semi-final,,,SF-01,2026-07-18,TBD,TBD,MetLife Stadium (New York/NJ),2026-07-18T19:00:00Z,scheduled,,,,,,,,
+Semi-final,,,SF-02,2026-07-19,TBD,TBD,AT&T Stadium (Dallas),2026-07-19T19:00:00Z,scheduled,,,,,,,,
+Third Place Play-off,,,TP-01,2026-07-22,TBD,TBD,Hard Rock Stadium (Miami),2026-07-22T19:00:00Z,scheduled,,,,,,,,
+Final,,,FIN-01,2026-07-26,TBD,TBD,MetLife Stadium (New York/NJ),2026-07-26T19:00:00Z,scheduled,,,,,,,,

@@ -1,0 +1,54 @@
+{
+  "team": "Turkey",
+  "fetched_at": "2026-05-10T03:25:03.643360Z",
+  "source": "mock",
+  "article_count": 3,
+  "team_sentiment": {
+    "label": "positive",
+    "average_score": 1.0,
+    "positive_articles": 2,
+    "negative_articles": 0,
+    "neutral_articles": 1
+  },
+  "articles": [
+    {
+      "headline": "Turkey win pre-tournament friendly to build momentum",
+      "description": "Turkey secured a comfortable victory in their final warm-up match before WC2026.",
+      "url": "https://mock-sports-news.example.com/turkey-0",
+      "source": "Mock Sports News",
+      "published_at": "2026-05-09T10:00:00Z",
+      "sentiment": {
+        "label": "positive",
+        "positive_count": 2,
+        "negative_count": 0,
+        "score": 2.0
+      }
+    },
+    {
+      "headline": "Turkey captain backs young squad to go far at World Cup 2026",
+      "description": "The Turkey skipper expressed confidence in the blend of experience and youth in the squad.",
+      "url": "https://mock-sports-news.example.com/turkey-1",
+      "source": "Mock Sports News",
+      "published_at": "2026-05-08T10:00:00Z",
+      "sentiment": {
+        "label": "neutral",
+        "positive_count": 0,
+        "negative_count": 0,
+        "score": 0.0
+      }
+    },
+    {
+      "headline": "Turkey look in fine form ahead of World Cup 2026 opener",
+      "description": "Turkey trained with confidence and all key players are fit for the tournament.",
+      "url": "https://mock-sports-news.example.com/turkey-2",
+      "source": "Mock Sports News",
+      "published_at": "2026-05-07T10:00:00Z",
+      "sentiment": {
+        "label": "positive",
+        "positive_count": 1,
+        "negative_count": 0,
+        "score": 1.0
+      }
+    }
+  ]
+}

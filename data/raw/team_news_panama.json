@@ -1,0 +1,54 @@
+{
+  "team": "Panama",
+  "fetched_at": "2026-05-10T03:25:03.635567Z",
+  "source": "mock",
+  "article_count": 3,
+  "team_sentiment": {
+    "label": "neutral",
+    "average_score": 0.0,
+    "positive_articles": 1,
+    "negative_articles": 1,
+    "neutral_articles": 1
+  },
+  "articles": [
+    {
+      "headline": "Panama captain backs young squad to go far at World Cup 2026",
+      "description": "The Panama skipper expressed confidence in the blend of experience and youth in the squad.",
+      "url": "https://mock-sports-news.example.com/panama-0",
+      "source": "Mock Sports News",
+      "published_at": "2026-05-09T10:00:00Z",
+      "sentiment": {
+        "label": "neutral",
+        "positive_count": 0,
+        "negative_count": 0,
+        "score": 0.0
+      }
+    },
+    {
+      "headline": "Panama look in fine form ahead of World Cup 2026 opener",
+      "description": "Panama trained with confidence and all key players are fit for the tournament.",
+      "url": "https://mock-sports-news.example.com/panama-1",
+      "source": "Mock Sports News",
+      "published_at": "2026-05-08T10:00:00Z",
+      "sentiment": {
+        "label": "positive",
+        "positive_count": 1,
+        "negative_count": 0,
+        "score": 1.0
+      }
+    },
+    {
+      "headline": "Panama star player faces late fitness test",
+      "description": "A key Panama midfielder is doubtful after picking up a minor injury in training.",
+      "url": "https://mock-sports-news.example.com/panama-2",
+      "source": "Mock Sports News",
+      "published_at": "2026-05-07T10:00:00Z",
+      "sentiment": {
+        "label": "negative",
+        "positive_count": 1,
+        "negative_count": 2,
+        "score": -1.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "team": "Hungary",
+  "fetched_at": "2026-05-10T03:25:03.642739Z",
+  "source": "mock",
+  "article_count": 3,
+  "team_sentiment": {
+    "label": "positive",
+    "average_score": 0.333,
+    "positive_articles": 1,
+    "negative_articles": 1,
+    "neutral_articles": 1
+  },
+  "articles": [
+    {
+      "headline": "Hungary star player faces late fitness test",
+      "description": "A key Hungary midfielder is doubtful after picking up a minor injury in training.",
+      "url": "https://mock-sports-news.example.com/hungary-0",
+      "source": "Mock Sports News",
+      "published_at": "2026-05-09T10:00:00Z",
+      "sentiment": {
+        "label": "negative",
+        "positive_count": 1,
+        "negative_count": 2,
+        "score": -1.0
+      }
+    },
+    {
+      "headline": "Hungary coach announces final 26-man World Cup squad",
+      "description": "The Hungary manager confirmed the group for the World Cup 2026 with no major surprises.",
+      "url": "https://mock-sports-news.example.com/hungary-1",
+      "source": "Mock Sports News",
+      "published_at": "2026-05-08T10:00:00Z",
+      "sentiment": {
+        "label": "neutral",
+        "positive_count": 0,
+        "negative_count": 0,
+        "score": 0.0
+      }
+    },
+    {
+      "headline": "Hungary win pre-tournament friendly to build momentum",
+      "description": "Hungary secured a comfortable victory in their final warm-up match before WC2026.",
+      "url": "https://mock-sports-news.example.com/hungary-2",
+      "source": "Mock Sports News",
+      "published_at": "2026-05-07T10:00:00Z",
+      "sentiment": {
+        "label": "positive",
+        "positive_count": 2,
+        "negative_count": 0,
+        "score": 2.0
+      }
+    }
+  ]
+}

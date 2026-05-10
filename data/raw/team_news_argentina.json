@@ -1,0 +1,54 @@
+{
+  "team": "Argentina",
+  "fetched_at": "2026-05-10T03:25:03.639469Z",
+  "source": "mock",
+  "article_count": 3,
+  "team_sentiment": {
+    "label": "positive",
+    "average_score": 0.667,
+    "positive_articles": 1,
+    "negative_articles": 0,
+    "neutral_articles": 2
+  },
+  "articles": [
+    {
+      "headline": "Argentina coach announces final 26-man World Cup squad",
+      "description": "The Argentina manager confirmed the group for the World Cup 2026 with no major surprises.",
+      "url": "https://mock-sports-news.example.com/argentina-0",
+      "source": "Mock Sports News",
+      "published_at": "2026-05-09T10:00:00Z",
+      "sentiment": {
+        "label": "neutral",
+        "positive_count": 0,
+        "negative_count": 0,
+        "score": 0.0
+      }
+    },
+    {
+      "headline": "Argentina win pre-tournament friendly to build momentum",
+      "description": "Argentina secured a comfortable victory in their final warm-up match before WC2026.",
+      "url": "https://mock-sports-news.example.com/argentina-1",
+      "source": "Mock Sports News",
+      "published_at": "2026-05-08T10:00:00Z",
+      "sentiment": {
+        "label": "positive",
+        "positive_count": 2,
+        "negative_count": 0,
+        "score": 2.0
+      }
+    },
+    {
+      "headline": "Argentina captain backs young squad to go far at World Cup 2026",
+      "description": "The Argentina skipper expressed confidence in the blend of experience and youth in the squad.",
+      "url": "https://mock-sports-news.example.com/argentina-2",
+      "source": "Mock Sports News",
+      "published_at": "2026-05-07T10:00:00Z",
+      "sentiment": {
+        "label": "neutral",
+        "positive_count": 0,
+        "negative_count": 0,
+        "score": 0.0
+      }
+    }
+  ]
+}
